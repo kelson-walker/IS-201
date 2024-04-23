@@ -22,8 +22,6 @@ nav a:hover{
 body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
     
-    max-width:: 960px;
-    margin:: auto;
 }
 h1 {
     font-size: 3em;
